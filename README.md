@@ -9,6 +9,7 @@
 * list2
 
 *test*
+**bold**
 
 ***testbold***
 
